@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Css | My Octopress Blog]]></title>
   <link href="http://happytrio.github.io/blog/categories/css/atom.xml" rel="self"/>
   <link href="http://happytrio.github.io/"/>
-  <updated>2015-10-24T21:34:00+08:00</updated>
+  <updated>2015-10-24T21:41:08+08:00</updated>
   <id>http://happytrio.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Happytrio]]></title>
+    <link href="http://happytrio.github.io/blog/2015/10/24/myfirstpage/"/>
+    <updated>2015-10-24T13:49:43+08:00</updated>
+    <id>http://happytrio.github.io/blog/2015/10/24/myfirstpage</id>
+    <content type="html"><![CDATA[<h1>你好双星伴月</h1>
+
+<h2>hello world</h2>
+
+<p><strong>加粗</strong></p>
+
+<p><code>标量</code></p>
+
+<ul>
+<li>javascript
+
+<ul>
+<li>splite</li>
+</ul>
+</li>
+<li>PHP</li>
+<li>CSS</li>
+</ul>
+
+
+<blockquote><p>引用</p></blockquote>
+
+<p><a href="http://www.baidu.com">百度</a></p>
+
+<p><img src="http://i.imgur.com/flbsCRi.jpg" alt="" /></p>
+
+<pre><code>javascript This is javascript http://www.baidu.com
+ function subject(){
+alert("ok")
+}
+</code></pre>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[双星伴月]]></title>
