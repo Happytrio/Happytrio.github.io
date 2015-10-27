@@ -1,0 +1,8 @@
+---
+layout: page
+title: "404 Not Found"
+date: 2015-10-24 13:49:43 +0800
+comments: false
+---
+
+<script type="text/javascript" src="http://www.qq.com/404/search_children.js" charset="utf-8" homePageUrl="http://yoursite.com/yourPage.html" homePageName="go home"></script>
