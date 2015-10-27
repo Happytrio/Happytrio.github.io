@@ -1,10 +1,12 @@
-# ----------------------- #
+﻿# ----------------------- #
 #      Main Configs       #
 # ----------------------- #
 
 url: http://happytrio.github.io
 title: 双星伴月
 subtitle: Done is better than perfect.
+title: May binary companion
+subtitle: A blogging framework for hackers.
 author: Happytrio
 simple_search: https://www.baidu.com
 description:
