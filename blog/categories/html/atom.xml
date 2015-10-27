@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Html | My Octopress Blog]]></title>
+  <title><![CDATA[Category: Html | 双星伴月]]></title>
   <link href="http://happytrio.github.io/blog/categories/html/atom.xml" rel="self"/>
   <link href="http://happytrio.github.io/"/>
-  <updated>2015-10-24T21:41:08+08:00</updated>
+  <updated>2015-10-27T21:16:10+08:00</updated>
   <id>http://happytrio.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Happytrio]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
